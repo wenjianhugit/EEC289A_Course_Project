@@ -1,4 +1,4 @@
 # Code for EEC 289A Course Project
 
-Deep Reinforcement Learning BasedVideo Object Segmentation
+Deep Reinforcement Learning Based Video Object Segmentation
 
